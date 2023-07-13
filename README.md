@@ -1,2 +1,35 @@
-# Core-JavaScript
-Core JavaScript Book Study Space
+<img src="https://user-images.githubusercontent.com/26461307/215277367-ed75e554-bd65-4f28-a0dc-e68879809fc3.jpg" alt="코어 자바스크립트" align="right" width="200" />
+
+# Core - JavaScript
+
+<span style="color:yellowgreen">
+Core JavaScript </span> Book Study Space
+
+핵심 개념과 동작 원리로 이해하는 자바스크립트 프로그래밍
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## 스터디 일정 💡
+
+|   일정    |     목차      | 서기 |
+| :-------: | :-----------: | :--: |
+| ~ 07. 20. |  데이터 타입  | 랜덤 |
+| ~ 07. 27. | 실행 컨텍스트 | 랜덤 |
+| ~ 08. 03. |     this      | 랜덤 |
+| ~ 08. 10. |   콜백 함수   | 랜덤 |
+| ~ 08. 17. |    클로저     | 랜덤 |
+| ~ 08. 24. |  프로토타입   | 랜덤 |
+| ~ 08. 31. |    클래스     | 랜덤 |
+
+<br />
+
+## 진행 방식 🎫
+
+- 스터디 전에 스터디원들은 해당 일정의 목차를 읽고 정리한 자료를 PR로 올려요.
+
+- 각 목차를 기준으로 `중요하다고 생각한`, `공유하고 싶은`, `내가 몰랐던` 내용들을 공유해요.
